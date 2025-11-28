@@ -38,8 +38,9 @@ html, body{
     translate: 20px;
 }
 #diamond:hover{
-    background-color: blue;
+    background-color: yellow;
 }
 #square:hover{
     background-color: rgb(224, 14, 14);
+
 }
